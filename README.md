@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [mateuszsokola/2048-in-react](https://github.com/mateuszsokola/2048-in-react), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://mateuszsokola.github.io/2048-in-react/>
+>
+> [![Standard CI](https://github.com/ArAryan1314/2048-in-react/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/2048-in-react/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 # 2048-in-react
 
 [![Open issues][issues-badge]][issues-url]
